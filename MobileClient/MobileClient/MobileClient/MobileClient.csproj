@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="1.0.0-alpha1-final" />
-    <PackageReference Include="Xamarin.Forms" Version="2.4.0.275-pre3" />
+    <PackageReference Include="Xamarin.Forms" Version="2.4.0.280" />
   </ItemGroup>
 
   <ItemGroup>
